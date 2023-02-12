@@ -50,15 +50,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'Amelia-MD', true],
+['6281296382470', 'Adji-Md', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
 global.mods = ['6283863727401']
-global.prems = ['6283863727401']
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
+global.prems = ['6285972795053']
+global.nomorbot = '6281296382470'
+global.nameown = 'AdjiModz'
 global.nomorown = '6283863727401'
 global.nomorown1 = '6282214729677'
 global.nomorown2 = '6282214729677'
@@ -75,24 +75,24 @@ global.limitawal = {
 
 global.readMore = readMore
 global.gcname = 'Amelia MD'//nama group kalian
-global.author = 'PutraModz' //ganti aja cuyyy
+global.author = 'AdjiModz' //ganti aja cuyyy
 global.namebot = '​Amelia-Md' //nama bot luh
 global.wm = '© Amelia-Md' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
 global.wm = 'Amelia-Md ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa
-global.wm3 = 'Amelia Botz by PutraModz' // ganti jugaa
+global.wm2 = 'AdjiModz' //ganti ajaa
+global.wm3 = 'Amelia Botz by AsjiModz' // ganti jugaa
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //ganti aja
+global.titlebot = `Amelia-Md | AdjiModz` //ganti aja
 global.stickpack = 'Amelia-Modz' //ganti 
 global.stickauth = `© Amelia-Md` //gantii 
 global.week = `${week} ${date}` //Gak usah
 global.wibb = `${wktuwib}` // Gak usah 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= 'Setiadji Ash Shiddiq' //ganti 
+global.nameown2 = 'AdjiModz' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
 global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
@@ -110,11 +110,11 @@ global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya
 global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401' //Tautan Wa Kalian
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '083864727401' //Isi aja klo punya 
-global.povo = '-' //Isi Aja klo punya 
-global.pgopay = '082214729677' //Isi aja klo punya 
-global.plinkaja = '-' //link aja,isi Klo punya
-global.ppulsa = '083863727401' //Isi aja klo punya 
+global.dana = '081296382470' //Isi aja klo punya 
+global.ovo = '081296382470' //Isi Aja klo punya 
+global.gopay = '081296382470' //Isi aja klo punya 
+global.linkaja = '-' //link aja,isi Klo punya
+global.pulsa = '081296382470' //Isi aja klo punya 
 global.ppulsa2 = '082214729677' //Isi aja klo punya 
 global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg' //Ganti aja ini Link gambar QR
 
